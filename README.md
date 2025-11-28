@@ -1,3 +1,8 @@
+
+# Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+### Name : Santhosh Kumar R
+### Reg.No : 212223100051
+
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
@@ -71,6 +76,10 @@ icat.exe -o 2048 C:\forensics\disk.dd 6 > C:\forensics\image.jpg
 ```
 ## OUTPUT:
 Disk Structure Analysis Results
+<img width="1631" height="887" alt="Screenshot (167)" src="https://github.com/user-attachments/assets/ea8da937-a8ad-406e-a5ae-5961735bf811" />
+<img width="1625" height="903" alt="Screenshot (168)" src="https://github.com/user-attachments/assets/2720555f-39de-4385-953a-e94975a6279d" />
+
+
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
